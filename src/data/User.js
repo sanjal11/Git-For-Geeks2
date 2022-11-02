@@ -1,4 +1,16 @@
 const Users = {
+  "SanjalGhate": {
+    name: "Sanjal Ghate",
+    branch: "IT",
+    description:
+      "slay",
+    links: {
+      github: "https://github.com/sanjal11",
+      instagram: "https://instagram.com/sanjalghate",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
