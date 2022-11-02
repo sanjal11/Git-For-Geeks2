@@ -1,4 +1,40 @@
 const Users = {
+  "sanjal11": {
+    name: "Sanjal Ghate",
+    branch: "IT",
+    description:
+      "slayyyyyyy",
+    links: {
+      github: "https://github.com/sanjal11",
+      instagram: "https://instagram.com/sanjalghate",
+      linkedin: "",
+      portfolio: "",
+    },
+  },
+  "araish03": {
+    name: "Araish Shaikh",
+    branch: "IT",
+    description:
+      "yay!",
+    links: {
+      github: "https://github.com/araish03",
+      instagram: "https://instagram.com/araishhhh_",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
+  "Umangjain712": {
+    name: "Umang Jain",
+    branch: "IT",
+    description:
+      "enjoying",
+    links: {
+      github: "https://github.com/Umangjain712",
+      instagram: "https://instagram.com/umang_jain712",
+      linkedin: "https://www.linkedin.com/",
+      portfolio: "",
+    },
+  },
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
